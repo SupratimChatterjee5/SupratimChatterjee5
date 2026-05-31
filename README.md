@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** SystemVerilog, Python, Verilog, C++, C
-- **Frameworks:** UVM, TensorFlow, OpenCV
+- **Frameworks:** UVM, PyTorch, TensorFlow, OpenCV
 - **Tools/Platforms:** Vmanager, Simvision, JasperGold, Verisium Debug, MATLAB, Audacity, Vivado-Xilinx
 - **Protocols:** SPI, I2C, CAN, TPL, JTAG, UART
 - **Technical Proficiency:** Design Verification, Signal Processing, Machine Learning, Digital Design, Internet of Things
