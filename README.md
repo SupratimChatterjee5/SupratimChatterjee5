@@ -2,7 +2,7 @@
 
 <!-- **SupratimChatterjee5/SupratimChatterjee5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I'm currently working as a Design Verification Engineer in the semiconductor industry
 - 🌱 I'm currently learning about SVA, UVM, LPV and AI in Design Verification
