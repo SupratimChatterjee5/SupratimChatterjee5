@@ -23,4 +23,4 @@
 
 ### 📊 Research
 
-[Chatterjee et al., IEEE 2024](https://ieeexplore.ieee.org/document/10396570)
+[Supratim et al., IEEE 2024](https://ieeexplore.ieee.org/document/10396570)
